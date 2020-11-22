@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/PropeReferio/{project}.svg)](http://hits.dwyl.com/PropeReferio/{project})
+<!-- [![HitCount](http://hits.dwyl.com/PropeReferio/{project}.svg)](http://hits.dwyl.com/PropeReferio/{project}) -->
 
 - 🔭 I’m currently working on Flask APIs with databases
 - 🌱 I’m currently learning all things Python
