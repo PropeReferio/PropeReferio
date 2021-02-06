@@ -2,7 +2,7 @@
 
 <!-- [![HitCount](http://hits.dwyl.com/PropeReferio/{project}.svg)](http://hits.dwyl.com/PropeReferio/{project}) -->
 
-- 🔭 I’m currently working on Flask APIs with databases
+- 🔭 I just made a CLI to get inventory from my favorite donut shop, Five Daughters Bakery! <a href="https://github.com/PropeReferio/vdonut">vdonut CLI</a>
 - 🌱 I’m currently learning all things Python
 - 🌐 Located in Nashville, TN
 - 👯 I’m looking to collaborate on Python projects
