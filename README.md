@@ -5,7 +5,7 @@
 - 🔭 I just made a CLI to get inventory from my favorite donut shop, Five Daughters Bakery! <a href="https://github.com/PropeReferio/vdonut">vdonut CLI</a>
 - 🌐 I'm working on a tool that makes a list of all the internal links of a website... <a href="https://github.com/PropeReferio/spider_site">spider_site</a> It works for statically loaded web sites.
 - 🌱 I’m currently learning all things Python
-- 🌐 Located in Nashville, TN
+- 🌐 Located in Austin, TX
 - 👯 I’m looking to collaborate on Python projects
 
 <!-- [![PropeReferio's github stats](https://github-readme-stats.vercel.app/api?username=propereferio&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/PropeReferio) -->
